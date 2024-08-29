@@ -23,7 +23,7 @@ Scalable Backend: Spring Boot backend API with RESTful endpoints for managing jo
 
     1. React.js: For building the user interface and managing frontend state.
     2. Axios: For making HTTP requests from the frontend to the backend API.
-    3.React Router: For handling routing and navigation within the application.
+    3. React Router: For handling routing and navigation within the application.
 
 **Getting Started**
 **Prerequisites**: 
