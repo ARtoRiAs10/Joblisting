@@ -30,7 +30,9 @@ Scalable Backend: Spring Boot backend API with RESTful endpoints for managing jo
 To run this project locally, you need to have the following installed:
 
 Java 17 or later
+
 Node.js (with npm or yarn)
+
 MongoDB Atlas account (or local MongoDB instance)
 
 **Backend Setup**
@@ -57,7 +59,7 @@ MongoDB Atlas account (or local MongoDB instance)
 ### Frontend Setup
 1. **Navigate to the frontend directory**:
     ```bash
-    cd ../frontend
+    cd ../joblisting_frontend1
     ```
 
 2. **Install dependencies**:
@@ -88,7 +90,7 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
-=======
+===========================================================================================================================
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
