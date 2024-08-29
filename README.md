@@ -15,16 +15,15 @@ Scalable Backend: Spring Boot backend API with RESTful endpoints for managing jo
 **Technologies Used:**
 1. **Backend:**
 
-    Java Spring Boot: For building the RESTful API   and business logic.
-    MongoDB Atlas: Cloud-based NoSQL database for   storing job listings and user data.
-    Spring Data MongoDB: Integration with MongoDB to  handle data persistence.
-    Spring Boot Security: For securing API endpoints and managing user authentication.
+    1. Java Spring Boot: For building the RESTful API   and business logic.
+    2. MongoDB Atlas: Cloud-based NoSQL database for   storing job listings and user data.
+    3. Spring Data MongoDB: Integration with MongoDB to  handle data persistence.
+    
+2. **Frontend**:
 
-**Frontend**:
-
-1. React.js: For building the user interface and managing frontend state.
-Axios: For making HTTP requests from the frontend to the backend API.
-React Router: For handling routing and navigation within the application.
+    1. React.js: For building the user interface and managing frontend state.
+    2. Axios: For making HTTP requests from the frontend to the backend API.
+    3.React Router: For handling routing and navigation within the application.
 
 **Getting Started**
 **Prerequisites**: 
@@ -56,7 +55,6 @@ MongoDB Atlas account (or local MongoDB instance)
     ```
 
 ### Frontend Setup
-
 1. **Navigate to the frontend directory**:
     ```bash
     cd ../frontend
