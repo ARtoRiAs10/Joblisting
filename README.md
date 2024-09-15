@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ HEAD
 **JobListing Application**
 
 This repository contains a full-stack web application named JobListing, which is designed to allow users to search for job listings based on specific keywords. The backend of the application is built using Java Spring Boot, and the frontend is developed using React.js. The application uses MongoDB Atlas (MongoDB Cloud) as the database, enabling robust and scalable data storage and retrieval.
